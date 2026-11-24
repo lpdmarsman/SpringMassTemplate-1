@@ -378,6 +378,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3040591912450516665, guid: b43189b261145aa49b37f0b57eaf5bef, type: 3}
+      propertyPath: groundplane
+      value: 
+      objectReference: {fileID: 1948239076}
+    - target: {fileID: 3040591912450516665, guid: b43189b261145aa49b37f0b57eaf5bef, type: 3}
       propertyPath: planeObject
       value: 
       objectReference: {fileID: 317294637}
@@ -391,6 +395,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3040591912450516665, guid: b43189b261145aa49b37f0b57eaf5bef, type: 3}
       propertyPath: groundPlaneObject
+      value: 
+      objectReference: {fileID: 317294637}
+    - target: {fileID: 3040591912450516665, guid: b43189b261145aa49b37f0b57eaf5bef, type: 3}
+      propertyPath: groundPlaneTransform
       value: 
       objectReference: {fileID: 317294637}
     - target: {fileID: 3040591912450516665, guid: b43189b261145aa49b37f0b57eaf5bef, type: 3}
@@ -519,6 +527,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 317294637}
     - target: {fileID: 7615318666792419822, guid: 6ec2ba81dba01a84884331a6d6e1a08c, type: 3}
+      propertyPath: groundPlaneTransform
+      value: 
+      objectReference: {fileID: 317294637}
+    - target: {fileID: 7615318666792419822, guid: 6ec2ba81dba01a84884331a6d6e1a08c, type: 3}
       propertyPath: planeObjects.Array.size
       value: 2
       objectReference: {fileID: 0}
@@ -535,6 +547,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6ec2ba81dba01a84884331a6d6e1a08c, type: 3}
+--- !u!1 &1948239076 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6803614866280037712, guid: b0abf639ed0a0a749a36960b2805289d, type: 3}
+  m_PrefabInstance: {fileID: 7220740560166451454}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6999110556307057140
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -553,6 +570,10 @@ PrefabInstance:
       objectReference: {fileID: 317294637}
     - target: {fileID: 2952073839500597519, guid: c2704cba3d3a1b94d91d141358e6c3e5, type: 3}
       propertyPath: groundPlaneObject
+      value: 
+      objectReference: {fileID: 317294637}
+    - target: {fileID: 2952073839500597519, guid: c2704cba3d3a1b94d91d141358e6c3e5, type: 3}
+      propertyPath: groundPlaneTransform
       value: 
       objectReference: {fileID: 317294637}
     - target: {fileID: 2952073839500597519, guid: c2704cba3d3a1b94d91d141358e6c3e5, type: 3}
