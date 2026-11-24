@@ -15,4 +15,4 @@ For the required elements, I should have completed all the goals.
 10) Completed: Simulator loop should be done correctly
 11) Completed: All values should be initialized correctly.
 
-All components should be done correctly and whatnot.
+All components should be done correctly and whatnot I think.
